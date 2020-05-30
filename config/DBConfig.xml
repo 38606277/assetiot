@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DBConnection> 
+   <DB>
+      <name>form</name>  
+      <dbtype>Mysql</dbtype>  
+      <driver>com.mysql.cj.jdbc.Driver</driver>  
+      <url>jdbc:mysql://127.0.0.1:3306/form</url>  
+      <username>root</username>  
+      <password>v600KuCLNBc=</password>  
+      <maxPoolSize>50</maxPoolSize>  
+      <minPoolSize>3</minPoolSize> 
+   </DB>  
+   <DB> 
+      <name>jlerp</name>  
+      <dbtype>Mysql</dbtype>  
+      <driver>com.mysql.cj.jdbc.Driver</driver>  
+      <!-- <url>jdbc:mysql://114.251.247.113:3306/report</url> -->  
+      <url>jdbc:mysql://localhost:3306/jlerp</url>  
+      <!-- <url>jdbc:mysql://10.19.110.170:3306/form</url> -->  
+      <!-- <url>jdbc:mysql://172.25.105.113:3306/form</url> -->  
+      <username>root</username>  
+      <password>v600KuCLNBc=</password>  
+      <maxPoolSize>50</maxPoolSize>  
+      <minPoolSize>3</minPoolSize> 
+   </DB>  
+  </DBConnection>
