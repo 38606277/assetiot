@@ -11,7 +11,7 @@ public class Test {
 	// 计算余额
 		@RequestMapping(value = "/test", produces = "text/plain;charset=UTF-8")
 		public String test() {
-		   return "service is ok";
+		   return "asset.service is ok";
 		}
 		
 		
