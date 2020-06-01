@@ -5,7 +5,7 @@
       <name>form</name>  
       <dbtype>Mysql</dbtype>  
       <driver>com.mysql.cj.jdbc.Driver</driver>  
-      <url>jdbc:mysql://127.0.0.1:3306/form</url>  
+      <url>jdbc:mysql://127.0.0.1:3306/assetiot</url>
       <username>root</username>  
       <password>v600KuCLNBc=</password>  
       <maxPoolSize>50</maxPoolSize>  
