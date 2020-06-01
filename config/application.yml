@@ -17,3 +17,16 @@ management:
          include:*
      shutdown:
        enabled: true
+mqtt:
+  username: eam
+  password: Eam#2020
+  host: tcp://132.232.111.110:1883
+  clientinid: eamServer
+  topic: /init
+  timeout: 10000
+  keepalibe: 20
+
+       
+       
+       
+       
